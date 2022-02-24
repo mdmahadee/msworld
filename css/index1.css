@@ -83,6 +83,14 @@ iframe{
   border: solid red;
   border-radius: 10px;
 }
+.achievement .CD{
+  color: red;
+  text-decoration-line: underline;
+}
+.achievement img{
+  width: 100%;
+  height: auto;
+}
 #end{
   margin-left: 40%;
   text-align: center;
