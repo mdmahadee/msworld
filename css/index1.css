@@ -40,32 +40,6 @@ body {
 .nav__icon{
   font-size: 18px;
 }
-/*
-#nav1{
-  text-decoration: none;
-  color: lime;
-  border: solid 2px green;
-  border-radius: 5px;
-  background-color: #ff007e;
-}
-#nav2{
-  color: red;
-  text-decoration: none;
-  border:solid 2px green;
-  border-radius: 5px;
-}
-#nav3{
-  color: red;
-  text-decoration: none;
-  border:solid 2px green;
-  border-radius: 5px;
-}
-#nav4{
-  color: red;
-  text-decoration: none;
-  border:solid 2px green;
-  border-radius: 5px;
-}*/
 .h1no1 {
   text-decoration-line: underline;
 }
