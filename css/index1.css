@@ -1,5 +1,5 @@
 body {
-  background-color:#abefd8;
+  background-color:#BCBFDF;
   width: device-width;
   height: auto;
 }
@@ -71,8 +71,8 @@ body {
 }
 .container {
   border-radius: 10px;
-  color: #f63c87;
-  background-color:lime;
+  color: #19D1D2;
+  background-color:#1C9359;
   height: auto;
   padding: 2px 10px;
 }
